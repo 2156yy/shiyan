@@ -1,2 +1,5 @@
-git remote add origin https://github.com/2156yy/shiyan.git
-git push -u origin master
+
+#git rm -rf
+git add *
+git commit -m 'add'
+git push
